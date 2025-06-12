@@ -1,0 +1,20 @@
+
+666666
+888888
+admin
+Admin
+admin1
+Admin1
+administrator
+Camera
+camera
+Dinion
+guest
+no default
+no default
+none
+Recorder
+root
+service
+supervisor
+ubnt
